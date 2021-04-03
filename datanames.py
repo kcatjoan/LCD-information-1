@@ -1,3 +1,4 @@
+import Adafruit_CharLCD as LCD
 lcd_rs        = 25 
 lcd_en        = 24
 lcd_d4        = 23
