@@ -1,5 +1,6 @@
-from Adafruit_Python_CharLCD
-def main()
+import Adafruit_CharLCD as LCD
+def main():
+    
     lcd_rs        = 25 
     lcd_en        = 24
     lcd_d4        = 23
